@@ -1,4 +1,5 @@
 class RepositorioCuentasBancos{
+    
     constructor(){
         this.cuentas=[]
         this.transacciones=[]
